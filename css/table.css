@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    widows: 100%;
+    background-color: aqua
+}
+.header{
+    background-color: blue
+}
+.header:hover{
+    background-color: brown
+}
+.row:nth-child(even){
+    background-color: aqua
+}

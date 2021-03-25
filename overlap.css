@@ -1,0 +1,17 @@
+div{
+    width:150px;
+    height:150px;
+}
+.div1{
+    background-color: blueviolet;
+    position: relative;
+     /* top: 250px; left: 150px; */
+}
+.div2{background-color: rgb(43, 226, 89);
+    position: relative;
+     /* top: 0px; left: 250px; */
+    }
+    .div3{ background-color: rgb(171, 226, 43);
+        position:relative;
+         top: -250px; 
+         left: 350px;}
